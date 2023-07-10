@@ -1,0 +1,46 @@
+/* start time:10:05PM(10/7/2023) */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent1 {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.c11t {
+    font-family: 'Open Sans', sans-serif;
+    color: #272727;
+    font-size: 80px;
+    padding-bottom: 30px;
+}
+
+.c11p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+
+.pbtn {
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 16px 36px;
+    border: none;
+    border-radius: 7px;
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.child12 {
+    padding-top: 60px;
+}
+
+.child11 {
+    padding-left: 240px;
+}
+
+header{
+    background-color: #E554731A;
+}
+/* header end time:11:17 */
