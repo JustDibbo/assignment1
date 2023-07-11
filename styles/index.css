@@ -8,6 +8,11 @@
     display: flex;
     align-items: center;
     gap: 90px;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 0;
+    gap: 120px;
+    background-color: #E554731A;
 }
 
 .c11t {
@@ -30,18 +35,6 @@
     border-radius: 7px;
     font-size: 19px;
     margin-top: 30px;
-}
-
-.child12 {
-    padding-top: 60px;
-}
-
-.child11 {
-    padding-left: 240px;
-}
-
-header {
-    background-color: #E554731A;
 }
 
 /* header end time:11:17 */
@@ -105,7 +98,6 @@ header {
 
 /* bonus done 12:53AM */
 /* start time11:04AM */
-
 .hand2 {
     text-align: center;
 }
@@ -139,7 +131,6 @@ span {
 }
 
 /* end time 12:9PM */
-
 .sub {
     text-align: center;
     background-image: url('../styles/Rectangle\ 9.png');
@@ -193,7 +184,6 @@ span {
 }
 
 /* end time1:12PM */
-
 .end {
     text-align: center;
     background-color: #111010;
