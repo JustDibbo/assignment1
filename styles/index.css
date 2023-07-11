@@ -100,6 +100,40 @@ header {
 .boss {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 18px;
 }
-/* bonus done 12:53 */
+
+/* bonus done 12:53AM */
+/* start time11:04AM */
+
+.hand2 {
+    text-align: center;
+}
+
+.boss2 {
+    background: #E554730D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    gap: 180px;
+    margin-top: 130px;
+}
+
+span {
+    color: #E55473;
+}
+
+/* end time 11:39AM */
+.n2 {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.boss3 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 120px;
+}
