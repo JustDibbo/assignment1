@@ -191,4 +191,34 @@ span {
     gap: 20px;
     padding-bottom: 50px;
 }
+
 /* end time1:12PM */
+
+.end {
+    text-align: center;
+    background-color: #111010;
+}
+
+.ft {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    padding-top: 120px;
+    padding-bottom: 20px;
+    font-weight: 800;
+}
+
+.fp {
+    color: #FFFFFFE5;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.fp2 {
+    color: #FFFFFF66;
+    padding-top: 30px;
+    padding-bottom: 120px;
+}
+
+/* ends1:40PM */
